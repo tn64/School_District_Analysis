@@ -11,22 +11,32 @@ Using bulleted lists and images of DataFrames as support, address the following 
 
 - How is the district summary affected?
 
+TEXT GOES HERE
 <img src=https://github.com/tn64/School_District_Analysis/blob/main/Resources/District_summary_original.png>
 
+TEXT GOES HERE
 <img src=https://github.com/tn64/School_District_Analysis/blob/main/Resources/District_summary_new.png>
+
 
 - How is the school summary affected?
 
+TEXT GOES HERE
 <img src=https://github.com/tn64/School_District_Analysis/blob/main/Resources/Thomas%20_per_school_original.png>
 
-<img src=https://github.com/tn64/School_District_Analysis/blob/main/Resources/Thomas_per_school_new2.png>
+TEXT GOES HERE
+<img src=https://github.com/tn64/School_District_Analysis/blob/main/Resources/cp_other_schools_new2.png>
 
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
+TEXT GOES HERE
+
 <img src=https://github.com/tn64/School_District_Analysis/blob/main/Resources/Cp_other_schools_original.png>
 
+TEXT GOES HERE
+
 <img scr=https://github.com/tn64/School_District_Analysis/blob/main/Resources/cp_other_schools_new2.png>
+
 
 - How does replacing the ninth-grade scores affect the following:
 - Math and reading scores by grade
@@ -37,3 +47,8 @@ Using bulleted lists and images of DataFrames as support, address the following 
 ## Summary 
 
 Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+
+1. NUMBER ONE
+2. NUMBER TWO
+3. NUMBER THREE
+4. NUMBER FOUR
