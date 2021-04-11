@@ -10,6 +10,8 @@ In the scenario for this module, after reviewing the original analysis, the scho
 Using bulleted lists and images of DataFrames as support, address the following questions.
 
 - How is the district summary affected?
+<img src-https://github.com/tn64/School_District_Analysis/blob/main/Resources/District_summary_original.png>
+
 
 = How is the school summary affected?
 
