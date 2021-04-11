@@ -46,9 +46,9 @@ Results after Thomas High School's ninth grade reading and math scores are remov
 <img src=https://github.com/tn64/School_District_Analysis/blob/main/Resources/cp_other_schools_new2.png>
 
 
-- How does replacing the ninth-grade affect math and reading scores by grade? 
+- How does removing the ninth-grade affect math and reading scores by grade? 
 
-TEXT GOES HERE
+Removing the ningh-grade matha and reading scores shows math and reading scores for Thomas High School to be much better aligned with the scores of the other schools
 
 ORIGINAL MATH AND READING
 
@@ -58,9 +58,9 @@ ORIGINAL MATH AND READING
 
 NEW MATH AND READING
 
-<img src=https://github.com/tn64/School_District_Analysis/blob/main/Resources/math_scores_by_grade_new.png>
+<img src=https://github.com/tn64/School_District_Analysis/blob/main/Resources/math_scores_by_grade_new_1.png>
 
-<img src=https://github.com/tn64/School_District_Analysis/blob/main/Resources/reading_scores_by_grade_new.png>
+<img src=https://github.com/tn64/School_District_Analysis/blob/main/Resources/reading_scores_by_grade_new_1.png>
 
 
 - How does the new analysis affect scores by school spending
