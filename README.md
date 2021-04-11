@@ -67,16 +67,16 @@ Results after removing Thomas High School's ninth-grade math and reading scores:
 
 - How does the new analysis affect scores by school spending
 
-TEXT GOES HERE
-ORIGINAL
+Once again, after removing the ninth-graders at Thomas High School, we see a drop in academic performance.
+
+Original results:
 
 <img src=https://github.com/tn64/School_District_Analysis/blob/main/Resources/spending_original_2.png>
 
 <img src=https://github.com/tn64/School_District_Analysis/blob/main/Resources/spending_original_bin_3.png>
 
 
-
-NEW
+Results after Thomas High School's ninth-grade reading and math scores are removed:
 
 <img src=https://github.com/tn64/School_District_Analysis/blob/main/Resources/spending_new_1.png>
 
@@ -86,7 +86,7 @@ NEW
 
 - How does the new analysis affect scores by school size
 
-TEXT GOES HERE
+Removing the grades from Thomas High School shows a drop in performance for medium-size schools (one of which is Thomas High School).
 
 <img src=https://github.com/tn64/School_District_Analysis/blob/main/Resources/size_original_2.png>
 
@@ -98,7 +98,7 @@ TEXT GOES HERE
 
 TEXT GOES HERE
 
-<img src=https://github.com/tn64/School_District_Analysis/blob/main/Resources/type_original.png>
+<img src=https://github.com/tn64/School_District_Analysis/blob/main/Resources/type_original_2.png>
 
 <img src=https://github.com/tn64/School_District_Analysis/blob/main/Resources/type_new.png>
 
