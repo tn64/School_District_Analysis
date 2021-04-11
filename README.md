@@ -24,7 +24,7 @@ TEXT GOES HERE
 <img src=https://github.com/tn64/School_District_Analysis/blob/main/Resources/Thomas%20_per_school_original.png>
 
 TEXT GOES HERE
-Replace the image file here
+<img src=https://github.com/tn64/School_District_Analysis/blob/main/Resources/Thomas_per_school_new2.png>
 
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
