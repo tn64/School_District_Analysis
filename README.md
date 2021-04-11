@@ -19,6 +19,8 @@ Using bulleted lists and images of DataFrames as support, address the following 
 
 <img src=https://github.com/tn64/School_District_Analysis/blob/main/Resources/Thomas%20_per_school_original.png>
 
+<img src=https://github.com/tn64/School_District_Analysis/blob/main/Resources/Thomas_per_school_new2.png>
+
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
