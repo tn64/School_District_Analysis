@@ -31,11 +31,11 @@ TEXT GOES HERE
 
 TEXT GOES HERE
 
-<img src=https://github.com/tn64/School_District_Analysis/blob/main/Resources/Cp_other_schools_original.png>
+
 
 TEXT GOES HERE
 
-<img scr=https://github.com/tn64/School_District_Analysis/blob/main/Resources/cp_other_schools_new2.png>
+
 
 
 - How does replacing the ninth-grade scores affect the following:
