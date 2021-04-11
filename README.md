@@ -42,9 +42,46 @@ TEXT GOES HERE
 
 - Replacing the ninth-grade scores affect the following:
 - Math and reading scores by grade
+
+TEXT GOES HERE
+
+ORIGINAL MATH AND READING
+
+<img src=https://github.com/tn64/School_District_Analysis/blob/main/Resources/math_scores_by_grade_original.png>
+
+<img src=https://github.com/tn64/School_District_Analysis/blob/main/Resources/reading_scores_by_grade_original.png>
+
+NEW MATH AND READING
+
+<img src=https://github.com/tn64/School_District_Analysis/blob/main/Resources/math_scores_by_grade_new.png>
+
+<img src=https://github.com/tn64/School_District_Analysis/blob/main/Resources/reading_scores_by_grade_new.png>
+
 - Scores by school spending
+
+TEXT GOES HERE
+
+<img src=https://github.com/tn64/School_District_Analysis/blob/main/Resources/spending_original.png>
+
+<img src=https://github.com/tn64/School_District_Analysis/blob/main/Resources/spending_new.png>
+
+
 - Scores by school size
+
+TEXT GOES HERE
+
+<img src=https://github.com/tn64/School_District_Analysis/blob/main/Resources/size_original.png>
+
+<img src=https://github.com/tn64/School_District_Analysis/blob/main/Resources/size_new.png>
+
+
 - Scores by school type
+
+TEXT GOES HERE
+
+<img src=https://github.com/tn64/School_District_Analysis/blob/main/Resources/type_original.png>
+
+<img src=https://github.com/tn64/School_District_Analysis/blob/main/Resources/type_new.png>
 
 ## Summary 
 
