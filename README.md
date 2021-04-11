@@ -17,6 +17,10 @@ Using bulleted lists and images of DataFrames as support, address the following 
 
 - How is the school summary affected?
 
+<img src=https://github.com/tn64/School_District_Analysis/blob/main/Resources/Thomas%20_per_school_original.png>
+
+<img src=
+
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
 - How does replacing the ninth-grade scores affect the following:
