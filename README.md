@@ -69,12 +69,15 @@ Results after removing Thomas High School's ninth-grade math and reading scores:
 
 TEXT GOES HERE
 ORIGINAL
+
 <img src=https://github.com/tn64/School_District_Analysis/blob/main/Resources/spending_original_1.png>
 
+<img src=https://github.com/tn64/School_District_Analysis/blob/main/Resources/spending_bins_original_1.png>
 
 NEW
 <img src=https://github.com/tn64/School_District_Analysis/blob/main/Resources/spending_new_1.png>
 
+<img src=https://github.com/tn64/School_District_Analysis/blob/main/Resources/spending_new_1.png>
 
 
 - How does the new analysis affect scores by school size
