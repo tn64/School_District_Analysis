@@ -88,7 +88,8 @@ NEW
 
 TEXT GOES HERE
 
-<img src=https://github.com/tn64/School_District_Analysis/blob/main/Resources/size_original.png>
+<img src=https://github.com/tn64/School_District_Analysis/blob/main/Resources/size_original_2.png>
+
 
 <img src=https://github.com/tn64/School_District_Analysis/blob/main/Resources/size_new.png>
 
