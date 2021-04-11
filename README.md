@@ -17,6 +17,7 @@ Original results:
 <img src=https://github.com/tn64/School_District_Analysis/blob/main/Resources/District_summary_original.png>
 
 Results after Thomas High School's ninth-grade reading and math scores are removed:
+
 <img src=https://github.com/tn64/School_District_Analysis/blob/main/Resources/District_summary_new.png>
 
 
@@ -96,7 +97,7 @@ Removing the grades from Thomas High School shows a drop in performance for medi
 
 - How does the new analysis affect scores by school type
 
-TEXT GOES HERE
+The new analysis shows an increase in academic performance by school type.
 
 <img src=https://github.com/tn64/School_District_Analysis/blob/main/Resources/type_original_2.png>
 
@@ -105,9 +106,9 @@ TEXT GOES HERE
 
 ## Summary 
 
-Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+Four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
-1. NUMBER ONE
-2. NUMBER TWO
-3. NUMBER THREE
-4. NUMBER FOUR
+1. Academic performance was declined at Thomas High School.
+2. Academic performance was reduced at Thomas High School relative to the other high schools.
+3. Academic performance declined relative to school spending.
+4. Academic performance by school type showed an improvement in the performance of charter schools.
